@@ -2,16 +2,16 @@ Barwa
 =====
 
 ### Kolory i barwy
-** Światło widzialne
+__Światło widzialne__
 
 Jest to promieniowanie elektromagnetyczne w zakresie długości fal 380-780 nm (nanometrów).
 
-** Definicja barwy**
+__Definicja barwy__
+
+inaczej kolor to jedna z podstawowych jakości zmysłowych odbierana za pomocą siatkówki oka, uwarunkowana przyczynami obiektywnymi: długością fali świetlnej i strukturą materialną przedmiotu, na który pada światło
 
 
-
-
-* OKO - dzieki niemu widzimy. 
+__Oko__ - dzieki niemu widzimy. 
 ![Oko] (http://historiasztuki.com.pl/images/KOLOR/oko.jpg)
 
 
@@ -24,13 +24,9 @@ Impulsy wysyłane do mózgu przez czopki wrażliwe na falę o długości fali ok
 
 R - red - czerwona; G - green - zielona; B - blue - niebieska
 
+__Mieszanie addytywne__ polega na mieszaniu wiązek światła w trzech podstawowych kolorach, a w ich połączeniu powstaje światło o barwie białej. Jest to więc niejako proces odwrotny do rozszczepiania wiązki światła białego przez pryzmat na barwy widmowe. 
+
+W takim przypadku trzy podstawowe kolory to: czerwony, niebieski i zielony. W oparciu o syntezę addytywną mieszania barw pracują monitory oraz inne wyświetlacze kolorowe, emitując wiązki świateł Red (czerwony), Green (zielony), Blue (niebieski) (RGB). Czarny ekran to wynik braku emisji światła a biały to wynik złożenia świateł R + G + B z maksymalną jasnością. Od pierwszych liter powstał skrót RGB - nazwa powszechnie stosowanego systemu wyświetlania barwy. (rys) 
 
 
-
-
-
-
-
-
-
-![Mieszanie barw] (http://www.optyczne.pl/upload2/78988_08-4-05.jpg)
+![Mieszanie barw] (http://www.asp.katowice.pl/upload/tn2/ak-04-02.jpg)
