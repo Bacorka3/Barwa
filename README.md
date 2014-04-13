@@ -9,6 +9,7 @@ Jest to promieniowanie elektromagnetyczne w zakresie długości fal 380-780 nm (
 
 
 "**" OKO - dzieki niemu widzimy. 
+![Oko] (http://historiasztuki.com.pl/images/KOLOR/oko.jpg)
 
 
 Tylna część gałki ocznej zwana siatkówką zbudowana jest z komórek światłoczułych – fotoreceptorów. Fotoreceptory dzielą się na pręciki i czopki i są komórkami wyspecjalizowanymi.
