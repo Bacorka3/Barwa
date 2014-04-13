@@ -33,6 +33,7 @@ __Mieszanie subtraktywne__ to mieszanie pigmentów w trzech kolorach, a jego wyn
 ![Mieszanie barw] (http://www.asp.katowice.pl/upload/tn2/ak-04-03.jpg)
 
 
+##kolory specjalne 
 
 W poligrafii wykorzystujemy głownie model kolorów specjalnych zwanych PANTONE.
 
