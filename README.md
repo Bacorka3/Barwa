@@ -8,7 +8,7 @@ Jest to promieniowanie elektromagnetyczne w zakresie długości fal 380-780 nm (
 
 
 
-"**" OKO - dzieki niemu widzimy. 
+"*" OKO - dzieki niemu widzimy. 
 ![Oko] (http://historiasztuki.com.pl/images/KOLOR/oko.jpg)
 
 
