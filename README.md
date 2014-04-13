@@ -33,10 +33,15 @@ __Mieszanie subtraktywne__ to mieszanie pigmentów w trzech kolorach, a jego wyn
 ![Mieszanie barw] (http://www.asp.katowice.pl/upload/tn2/ak-04-03.jpg)
 
 
-##kolory specjalne 
+## Kolory specjalne 
 
 W poligrafii wykorzystujemy głownie model kolorów specjalnych zwanych PANTONE.
 
 __Pantone Inc.__ - to nazwa amerykańskiej korporacji, znanej z produkcji systemów używanych w przemyśle poligraficznym - została założona w 1962 roku przez Lawrence'a Herberta. Pantone opracowała i wydała swoją skalę kolorów, która stanowi wzorzec barw nazwany Skalą Pantone. Ta rozbudowana paleta kolorów stosowanych głównie w przemyśle poligraficznym nie stanowi jednak, podobnie jak RAL, modelu przestrzeni barwy. Została ona uznana za podstawowy wzorzec drukarski na całym świecie. Każdy kolor ma w katalogu Pantone swoją nazwę i numer, podano tam również szczegółowe informacje na temat jego składników. Nazwy barw w próbniku są zróżnicowane - od kolorów processowych, czyli najczęściej używanych w drukarstwie, poprzez barwy oznaczone numeracją trzycyfrową, po oznaczenia czterocyfrowe. Część barw zawartych w Skali Pantone jest możliwa do odtworzenia w tradycyjnym sposobie drukowania za pomocą CMYK i zawiera transpozycje proporcji na trzy standardowe barwniki i czerń. Jednakże odwzorowania skali kolorów Pantone na CMYK nie są w wielu przypadkach do końca wiarygodne. Specyfika Pantone jest to, że są to kolory trudne do uzyskania w druku czterokolorowym. Ponieważ na odcień i nasycenie określonego koloru wpływa również materiał, na który nanosi się farby, wzornik Pantone został podzielony na dwie podstawowe części ; - część "C" (coated) dla papieru powlekanego i część "U" (uncoated) dla papieru niepowlekanego lub bardziej chłonnego. Ponadto istnieje klika odmian tej skali kolorów, dedykowanych specjalistycznym dziedzinom projektowym, np. Pantone Fashion.
 
 ![pantone] (http://www.xnet.pl/foto/pantone_bridge.jpg)
+
+## Postrzeganie barw
+
+__Złudzenia optyczne barwne__- związane z jasnością i barwą tła (szary element przybiera odcień dopełniający do barwy tła)
+![złudzenie optyczne] (http://copernicus.9lo.lublin.pl/~jrr/oko2/zlbarw1.jpg)
