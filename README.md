@@ -2,14 +2,14 @@ Barwa
 =====
 
 ### Kolory i barwy
-"**" Światło widzialne
+** Światło widzialne
 Jest to promieniowanie elektromagnetyczne w zakresie długości fal 380-780 nm (nanometrów).
-"**" Definicja barwy
+** Definicja barwy
 
 
 
 
-"*" OKO - dzieki niemu widzimy. 
+* OKO - dzieki niemu widzimy. 
 ![Oko] (http://historiasztuki.com.pl/images/KOLOR/oko.jpg)
 
 
