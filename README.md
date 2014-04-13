@@ -45,3 +45,8 @@ __Pantone Inc.__ - to nazwa amerykańskiej korporacji, znanej z produkcji system
 
 __Złudzenia optyczne barwne__- związane z jasnością i barwą tła (szary element przybiera odcień dopełniający do barwy tła)
 ![złudzenie optyczne] (http://copernicus.9lo.lublin.pl/~jrr/oko2/zlbarw1.jpg)
+__Złudzenia optyczne jasności__-np. przedmiot oglądany na jasnym tle wydaje się ciemniejszy niż ten sam przedmiot na ciemnym tle
+![Złudzenie optyczne] (http://copernicus.9lo.lublin.pl/~jrr/oko2/zljasn.jpg)
+__Złudzenia optyczne irradiacyjne__ -dotycza błędnej oceny wielkości przedmiotów, a wynikają z róż
+nicy jasności obserwowanych przedmiotów i tła. (noga w czarnej pończosze wydaje się szczuplejsza niż w bialej)
+![Złudzenie optyczne] (http://copernicus.9lo.lublin.pl/~jrr/oko2/irra1.jpg)
