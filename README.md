@@ -3,4 +3,4 @@ Barwa
 
 ### Kolory i barwy
 
-![Barwa]: http://www.optyczne.pl/upload2/78988_08-4-05.jpg
+![Mieszanie barw] (http://www.optyczne.pl/upload2/78988_08-4-05.jpg)
