@@ -6,7 +6,7 @@ Barwa
 
 Jest to promieniowanie elektromagnetyczne w zakresie długości fal 380-780 nm (nanometrów).
 
-** Definicja barwy
+** Definicja barwy**
 
 
 
